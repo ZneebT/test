@@ -19,7 +19,7 @@ public class FahrzeigHaupt {
 		
 			//Autodaten ausgeben
 		
-		System.out.println("Anzahl der Räder    : " + auto1.getAnzahlRaeder() + " Räder");
+		System.out.println("Anzahl der RÃ¤der    : " + auto1.getAnzahlRaeder() + " RÃ¤der");
 		System.out.println("PS Anzahl           : " + auto1.getPS() + " PS");
 		
 		
@@ -43,8 +43,8 @@ public class FahrzeigHaupt {
 		
 			//Kombidaten ausgeben
 		
-		System.out.println("	Anzahl der Räder    : " + kombi1.getAnzahlRaeder() + " Räder");
-		System.out.println("	Reifendurchmesser   : " + kombi1.getAnzahlTueren() + " Türen");
+		System.out.println("	Anzahl der RÃ¤der    : " + kombi1.getAnzahlRaeder() + " RÃ¤der");
+		System.out.println("	Reifendurchmesser   : " + kombi1.getAnzahlTueren() + " TÃ¼ren");
 		System.out.println("	PS Anzahl           : " + kombi1.getPS() + " PS");
 		
 			//Coupe erzeugen
@@ -65,8 +65,8 @@ public class FahrzeigHaupt {
 		
 			//Coupedaten ausgeben
 		
-		System.out.println("	Anzahl der Räder    : " + coupe1.getAnzahlRaeder() + " Räder");
-		System.out.println("	Reifendurchmesser   : " + coupe1.getAnzahlSitze() + " Türen");
+		System.out.println("	Anzahl der RÃ¤der    : " + coupe1.getAnzahlRaeder() + " RÃ¤der");
+		System.out.println("	Reifendurchmesser   : " + coupe1.getAnzahlSitze() + " TÃ¼ren");
 		System.out.println("	PS Anzahl           : " + coupe1.getPS() + " PS");
 		
 			//Fahrrad erzeugen
@@ -86,8 +86,9 @@ public class FahrzeigHaupt {
 		
 			//Fahrraddaten ausgeben
 		
-		System.out.println("Anzahl der Räder    : " + fahrrad1.getAnzahlRaeder() + " Räder");
+		System.out.println("Anzahl der RÃ¤der    : " + fahrrad1.getAnzahlRaeder() + " RÃ¤der");
 		System.out.println("Reifendurchmesser   : " + fahrrad1.getreifendurchmesser() + " Zoll");
+		System.out.println("Test");
 		
 	}
 	
